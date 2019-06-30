@@ -1,7 +1,7 @@
 # Context Aware Project: RiciclaMe
-
+<p align="center">
 <img src="http://i65.tinypic.com/25h1ugp.png" width="250">
-</center>
+</p>
 
 Repository per il progetto di Sistemi Context Aware.
 
@@ -13,10 +13,14 @@ Il progetto si compone principalmente di due cartelle.
 
 ## Comandi di avvio
 
-**REST API:**  
+**REST API:**
+```
 node server.js
+```
 **React Native:**
+```
 npm start
+```
 
 # Relazione
 
