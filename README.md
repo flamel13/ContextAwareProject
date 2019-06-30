@@ -1,5 +1,5 @@
 # Context Aware Project: RiciclaMe
-<center>
+
 <img src="http://i65.tinypic.com/25h1ugp.png" width="250">
 </center>
 
@@ -13,9 +13,9 @@ Il progetto si compone principalmente di due cartelle.
 
 ## Comandi di avvio
 
-> **REST API:**  
- node server.js
-> **React Native:**
+**REST API:**  
+node server.js
+**React Native:**
 npm start
 
 # Relazione
