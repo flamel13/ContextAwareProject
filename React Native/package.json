@@ -1,0 +1,47 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@nois/react-native-beacons-manager": "^1.3.5",
+    "@react-native-community/slider": "^1.1.3",
+    "clarifai": "^2.9.0",
+    "expo": "^33.0.3",
+    "expo-camera": "~5.0.1",
+    "expo-cli": "^2.19.1",
+    "expo-constants": "~5.0.1",
+    "expo-image-manipulator": "~5.0.1",
+    "expo-location": "^5.0.1",
+    "expo-permissions": "~5.0.1",
+    "fetch": "^1.1.0",
+    "react": "16.8.3",
+    "react-callout-component": "^2.1.0",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-beacons-manager": "^1.0.7",
+    "react-native-elements": "^1.1.0",
+    "react-native-expo-geofence": "^0.1.6",
+    "react-native-gesture-handler": "~1.2.1",
+    "react-native-map-clustering": "^1.3.2",
+    "react-native-maps": "^0.24.2",
+    "react-native-maps-super-cluster": "^1.5.0",
+    "react-native-material-ui": "^1.30.1",
+    "react-native-numeric-input": "^1.8.0",
+    "react-native-paper": "^2.16.0",
+    "react-native-range-slider": "^0.1.2",
+    "react-native-vector-icons": "^6.5.0",
+    "react-native-web": "^0.11.4",
+    "react-native-webview-leaflet": "^4.3.4",
+    "react-navigation": "^3.11.0",
+    "supercluster": "4.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+  },
+  "private": true
+}
