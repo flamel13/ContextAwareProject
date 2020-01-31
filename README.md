@@ -1,6 +1,6 @@
 # Context Aware Project: RiciclaMe
 <p align="center">
-<img src="http://i65.tinypic.com/25h1ugp.png" width="250">
+<img src="https://raw.githubusercontent.com/flamel13/ContextAwareProject/master/home-screen.png" width="250">
 </p>
 
 Repository per il progetto di Sistemi Context Aware.
